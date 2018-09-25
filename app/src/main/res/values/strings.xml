@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">hw2</string>
+
+    <string name="choice">Choose a department</string>
+
+    <string-array name="empids">
+        <item>ABC123</item>
+        <item>XYZ456</item>
+        <item>123ABC</item>
+        <item>456XYZ</item>
+    </string-array>
+
+    <string-array name="spinnerDep">
+        <item>Biology</item>
+        <item>Computer Science</item>
+        <item>Engineering</item>
+        <item>Mathematics</item>
+        <item>Physics</item>
+        <item>Political Science</item>
+        <item>Sociology</item>
+        <item>Other Department</item>
+    </string-array>
+</resources>

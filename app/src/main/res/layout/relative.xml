@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+         xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/empID"
+        android:layout_width="96dp"
+        android:layout_height="45dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:gravity="center"
+        android:text="Employee ID" />
+
+
+    <EditText
+        android:id="@+id/empIDEditText"
+        android:layout_width="291dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:inputType="textCapCharacters"/>
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="95dp"
+        android:layout_height="45dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/empID"
+        android:gravity="center"
+        android:text="Name" />
+
+    <EditText
+        android:id="@+id/nameEditText"
+        android:layout_width="293dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/empIDEditText"
+        android:inputType="textCapWords|textPersonName"/>
+
+
+    <TextView
+        android:id="@+id/email"
+        android:layout_width="95dp"
+        android:layout_height="45dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/name"
+        android:gravity="center"
+        android:text="Email" />
+
+
+    <EditText
+        android:id="@+id/emailEditText"
+        android:layout_width="294dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/nameEditText" />
+
+    <TextView
+        android:id="@+id/gender"
+        android:layout_width="95dp"
+        android:layout_height="45dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/email"
+        android:gravity="center"
+        android:text="Gender" />
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/email"
+        android:layout_centerHorizontal="true"
+        android:orientation="horizontal"
+        android:layout_toRightOf="@id/gender">
+
+        <RadioButton
+            android:id="@+id/radioMale"
+            android:layout_width="154dp"
+            android:layout_height="45dp"
+            android:layout_below="@+id/email"
+            android:layout_toRightOf="@+id/empID"
+            android:text="Male" />
+
+        <RadioButton
+            android:id="@+id/radioFemale"
+            android:layout_width="161dp"
+            android:layout_height="45dp"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/email"
+            android:text="female" />
+
+    </RadioGroup>
+
+
+    <TextView
+        android:id="@+id/accessCode"
+        android:text="Access Code"
+        android:layout_width="95dp"
+        android:layout_height="45dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/gender"
+        android:gravity="center" />
+
+    <EditText
+        android:id="@+id/accessCodeEditText"
+        android:layout_width="293dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/gender"
+        android:inputType="textPassword" />
+
+    <TextView
+        android:id="@+id/confirmCode"
+        android:layout_width="95dp"
+        android:layout_height="45dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/accessCode"
+        android:gravity="center"
+        android:text="Confirm Access Code" />
+
+    <EditText
+        android:id="@+id/confirmCodeEditText"
+        android:layout_width="293dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/accessCodeEditText"
+        android:inputType="textPassword" />
+
+    <TextView
+        android:id="@+id/department"
+        android:layout_width="95dp"
+        android:layout_height="45dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/confirmCode"
+        android:text="department"
+        android:gravity="center" />
+
+    <Spinner
+        android:id="@+id/departmentSpin"
+        android:layout_width="293dp"
+        android:layout_height="45dp"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/confirmCodeEditText"
+        android:entries="@array/spinnerDep"></Spinner>
+
+    <CheckBox
+        android:id="@+id/agreeCheck"
+        android:layout_width="57dp"
+        android:layout_height="45dp"
+        android:layout_below="@+id/department"
+        android:layout_toRightOf="@+id/empID" />
+
+    <TextView
+        android:id="@+id/agree"
+        android:layout_width="217dp"
+        android:layout_height="45dp"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/departmentSpin"
+        android:gravity="center_vertical"
+        android:text=" Check to Agree" />
+
+    <TextView
+        android:id="@+id/blank"
+        android:layout_width="95dp"
+        android:layout_height="45dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/department" />
+
+    <Button
+        android:id="@+id/button_reset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/agreeCheck"
+        android:layout_alignTop="@+id/button_register"
+        android:text="Reset" />
+
+    <Button
+        android:id="@+id/button_register"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="89dp"
+        android:layout_marginRight="109dp"
+        android:text="Register" />
+
+</RelativeLayout>

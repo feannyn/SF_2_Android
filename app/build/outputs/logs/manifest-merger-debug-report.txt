@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml:2:1-42:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc02.aar/8791fe737a60690589a3f7b7b6ceeac5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ca2a2047a5436cec793d767f6b86748f/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc02.aar/64180969f117357c2f13a885ce5660bd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc02.aar/56a76b1f55dc7d8d630e66e845762854/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc02.aar/f424f2ac8a788fd58631c9837daafa66/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc02.aar/4e3e43c44ead691ec6f4a239022a9f6e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc02.aar/9af1b92ec677ce886b6217bead76fb8f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc02.aar/bf5afd2f4f15474d6420217335d54a38/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc02.aar/74ff7e2e18fe610cf6d12fddea72996a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc02.aar/85fd61b2154862df32385e57f4351d83/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc02.aar/7de188e824fe947d0678574bd9be8b93/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc02.aar/af1366ebd6521696f7e278af166204db/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc02.aar/2f053cf92d848e5fa7e71089b2e9d343/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc02.aar/f8c95dc93fc344fd28bdcca2a2c5cd8e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc02.aar/1653eb20ce5dbeeb596ff6245d5b58ff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc02.aar/3f890a0d57c251a3de846ad7492b7076/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/7620a1472e4fae7f2e1257d683789363/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/8fdbcf6392f8597acbf7897f8fe7a04a/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc02.aar/06c0597d89c1adba031fc8b74f85198c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ed76c3489dd8e21a850d526083fc9b61/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc02.aar/77aaca89b45c18d29ad7cf0c5e6c7efc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc02.aar/9e8a841f3f56c2a1d201c7885eeb2eb7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc02.aar/4bc262ee1f363ab00b4709fabf5bab06/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/d9cf921d5f5f91d43e05630c3104ea68/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc02.aar/9e6a8bd6b0df6f4d7943aa7afabc7704/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8b4b930730433e8434b26d4f93527ea2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4ff4397dd4fa8fb8d5e54da594a96b50/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml:2:1-42:12
+		INJECTED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml:2:1-42:12
+		INJECTED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml:5:5-40:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ca2a2047a5436cec793d767f6b86748f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ca2a2047a5436cec793d767f6b86748f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/7620a1472e4fae7f2e1257d683789363/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/7620a1472e4fae7f2e1257d683789363/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/8fdbcf6392f8597acbf7897f8fe7a04a/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/8fdbcf6392f8597acbf7897f8fe7a04a/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/7620a1472e4fae7f2e1257d683789363/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml:11:9-40
+activity#edu.fsu.cs.mobile.hw2.MainActivity
+ADDED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml:16:27-74
+activity#edu.fsu.cs.mobile.hw2.RelativeLayoutActivity
+ADDED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml:20:9-25:20
+	android:name
+		ADDED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml:20:19-57
+intent-filter#action:name:android.intent.action.DEFAULT
+ADDED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml:22:13-24:29
+action#android.intent.action.DEFAULT
+ADDED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml:23:17-72
+	android:name
+		ADDED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml:23:25-69
+activity#edu.fsu.cs.mobile.hw2.TableLayoutActivity
+ADDED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml:27:9-32:20
+	android:name
+		ADDED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml:27:19-54
+activity#edu.fsu.cs.mobile.hw2.LinearLayoutActivity
+ADDED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml:34:9-39:20
+	android:name
+		ADDED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml:34:19-55
+uses-sdk
+INJECTED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc02.aar/8791fe737a60690589a3f7b7b6ceeac5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc02.aar/8791fe737a60690589a3f7b7b6ceeac5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ca2a2047a5436cec793d767f6b86748f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ca2a2047a5436cec793d767f6b86748f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc02.aar/64180969f117357c2f13a885ce5660bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc02.aar/64180969f117357c2f13a885ce5660bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc02.aar/56a76b1f55dc7d8d630e66e845762854/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc02.aar/56a76b1f55dc7d8d630e66e845762854/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc02.aar/f424f2ac8a788fd58631c9837daafa66/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc02.aar/f424f2ac8a788fd58631c9837daafa66/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc02.aar/4e3e43c44ead691ec6f4a239022a9f6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc02.aar/4e3e43c44ead691ec6f4a239022a9f6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc02.aar/9af1b92ec677ce886b6217bead76fb8f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc02.aar/9af1b92ec677ce886b6217bead76fb8f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc02.aar/bf5afd2f4f15474d6420217335d54a38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc02.aar/bf5afd2f4f15474d6420217335d54a38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc02.aar/74ff7e2e18fe610cf6d12fddea72996a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc02.aar/74ff7e2e18fe610cf6d12fddea72996a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc02.aar/85fd61b2154862df32385e57f4351d83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc02.aar/85fd61b2154862df32385e57f4351d83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc02.aar/7de188e824fe947d0678574bd9be8b93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc02.aar/7de188e824fe947d0678574bd9be8b93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc02.aar/af1366ebd6521696f7e278af166204db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc02.aar/af1366ebd6521696f7e278af166204db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc02.aar/2f053cf92d848e5fa7e71089b2e9d343/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc02.aar/2f053cf92d848e5fa7e71089b2e9d343/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc02.aar/f8c95dc93fc344fd28bdcca2a2c5cd8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc02.aar/f8c95dc93fc344fd28bdcca2a2c5cd8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc02.aar/1653eb20ce5dbeeb596ff6245d5b58ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc02.aar/1653eb20ce5dbeeb596ff6245d5b58ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc02.aar/3f890a0d57c251a3de846ad7492b7076/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc02.aar/3f890a0d57c251a3de846ad7492b7076/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/7620a1472e4fae7f2e1257d683789363/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc02.aar/7620a1472e4fae7f2e1257d683789363/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/8fdbcf6392f8597acbf7897f8fe7a04a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc02.aar/8fdbcf6392f8597acbf7897f8fe7a04a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc02.aar/06c0597d89c1adba031fc8b74f85198c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc02.aar/06c0597d89c1adba031fc8b74f85198c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ed76c3489dd8e21a850d526083fc9b61/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ed76c3489dd8e21a850d526083fc9b61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc02.aar/77aaca89b45c18d29ad7cf0c5e6c7efc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc02.aar/77aaca89b45c18d29ad7cf0c5e6c7efc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc02.aar/9e8a841f3f56c2a1d201c7885eeb2eb7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc02.aar/9e8a841f3f56c2a1d201c7885eeb2eb7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc02.aar/4bc262ee1f363ab00b4709fabf5bab06/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc02.aar/4bc262ee1f363ab00b4709fabf5bab06/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/d9cf921d5f5f91d43e05630c3104ea68/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/d9cf921d5f5f91d43e05630c3104ea68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc02.aar/9e6a8bd6b0df6f4d7943aa7afabc7704/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc02] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc02.aar/9e6a8bd6b0df6f4d7943aa7afabc7704/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8b4b930730433e8434b26d4f93527ea2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8b4b930730433e8434b26d4f93527ea2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4ff4397dd4fa8fb8d5e54da594a96b50/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/nicholasfeanny/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4ff4397dd4fa8fb8d5e54da594a96b50/AndroidManifest.xml:20:5-44
+INJECTED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nicholasfeanny/Documents/Software Engineering/hw2/app/src/main/AndroidManifest.xml
